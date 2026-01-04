@@ -8,6 +8,7 @@
  - Python 🟨
  - HTML ⬜
  - Java 🟧
+ - Lua
 
 ### ⚡ Fun fact: I hate copyright breakers and idea stealers!
 
